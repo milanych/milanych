@@ -1,5 +1,5 @@
 ## Hi there! 👋
-- 💻 1+ Years Experience in Frontend Technologies;
+- 💻 1+ Years of Experience in Frontend Technologies;
 - 👨🏼‍💻 I love coding and learning new things
 - 📚 I’m currently learning React;
 - 🛒 10+ years of marketing experience;
@@ -8,7 +8,7 @@
 ### Connect with me 🤝
 <a href="https://t.me/zotov_vadim"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="30" right="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vadimzotov/"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="30" right="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://wa.me/447466500103"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/WhatsApp_black.png" width="30" right="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:vadimzotov.uk@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Gmail_black.png" width="30" right="30"></a>
 
-## Technologies I used 👨‍💻
+## Technologies I use 👨‍💻
 ![html badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
