@@ -1,7 +1,7 @@
 ## Hi there! 👋
 - 💻 1+ Years of Experience in Frontend Technologies;
-- 👨🏼‍💻 I love coding and learning new things
-- 📚 I’m currently learning React;
+- 👨🏼‍💻 3 years in WordPress development;
+- 📚 I’m currently learning TypeScript;
 - 🛒 10+ years of marketing experience;
 - ![codewars badge](https://www.codewars.com/users/Milanych/badges/small)
 
